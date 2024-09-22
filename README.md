@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drashtish
+- 👋 Hi, I’m Drashti Shah
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me 22f2001483@ds.study.iitm.ac.in
 
